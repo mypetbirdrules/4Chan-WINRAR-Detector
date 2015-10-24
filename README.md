@@ -14,3 +14,7 @@ Here they are:
 >--board
 
 >--thread
+
+Writing results to a file is also supported:
+
+> ./dubsget.py --board [BOARD] --thread [THREAD ID] --all --output allgets.txt
