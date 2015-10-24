@@ -1,4 +1,4 @@
-# 4Chan-Dubs-Trips-Quads-Detector
+# 4Chan-WINRAR-Detector
 The script parses a 4chan thread and finds people with dubs, trips, or quads. Arguably useful.
 
 Install the needed dependencies:
