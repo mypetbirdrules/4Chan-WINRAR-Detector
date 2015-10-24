@@ -5,7 +5,6 @@ Install the needed dependencies:
 
 >sudo pip install basc_py4chan
 
->sudo pip install wget
 
 The script is designed to run in Python 3 but it may run in Python 2 [Not Recommended].
 
